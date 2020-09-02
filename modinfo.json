@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "CDSA",
+    "name": "Cataclysm Dark Scrolls Ahead Mod",
+    "authors": [ "Cyrano7" ],
+    "description": "TODO.",
+    "category": "content",
+    "dependencies": [ "dda" ]
+  }
+]
