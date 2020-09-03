@@ -1,0 +1,9 @@
+[
+  {
+    "type": "TRAIT_BLACKLIST",
+    "traits": [
+      "ROBUST",
+      "CHAOTIC_BAD"
+    ]
+  }
+]
