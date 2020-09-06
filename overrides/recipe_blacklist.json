@@ -1,0 +1,52 @@
+[
+  {
+    "type": "recipe",
+    "result": "long_island",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "drink_rumcola",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "drink_kalimotxo",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "spezi",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "cola_meth",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "drink_hobo",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "drink_strawberry_surprise",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "drink_boozeberry",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "mex_chocolate",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "irish_coffee",
+    "obsolete": true
+  }
+]
