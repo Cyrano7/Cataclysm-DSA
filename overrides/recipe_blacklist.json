@@ -108,5 +108,85 @@
     "type": "recipe",
     "result": "crispycran",
     "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "drink_martini",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "soup_cullenskink",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "cloutie_dumpling",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "haggis",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "smores",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "cooked_dinner",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "nachos",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "tortilla_corn",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "taco",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "quesadilla_cheese",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "homemade_burrito",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "nachosc",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "nachosm",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "nachosmc",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "nachosv",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "nachosvc",
+    "obsolete": true
   }
 ]
