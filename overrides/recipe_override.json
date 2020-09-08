@@ -1,0 +1,21 @@
+[
+  {
+    "type": "recipe",
+    "result": "mixed_alcohol_strong",
+    "category": "CC_FOOD",
+    "subcategory": "CSC_FOOD_DRINKS",
+    "skill_used": "cooking",
+    "time": "1 s",
+    "charges": 1,
+    "autolearn": true,
+    "flags": [ "BLIND_EASY" ],
+    "components": [
+      [
+        [ "cyro_brandy", 1 ],
+        [ "flin", 1 ],
+        [ "greef", 1 ],
+        [ "sujamma", 1 ]
+      ]
+    ]
+  }
+]
