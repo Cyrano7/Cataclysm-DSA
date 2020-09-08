@@ -48,5 +48,65 @@
     "type": "recipe",
     "result": "irish_coffee",
     "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "drink_martini",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "eggnog_spiked",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "eggnog",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "homemade_burrito",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "atomic_coffee",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "meth",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "heroin",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "crack",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "honey_gold",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "protein_shake",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "protein_drink",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "crispycran",
+    "obsolete": true
   }
 ]
