@@ -1,0 +1,17 @@
+[
+  {
+    "id": "skeleton_key",
+    "type": "TOOL",
+    "name": { "str": "Skeleton Key" },
+    "description": "A powerful artifact created by the Daedric Prince Nocturnal. It functions as a tool for \"unlocking\" all things.",
+    "weight": "544 g",
+    "volume": "100 ml",
+    "price": 0,
+    "material": "daedric",
+    "symbol": ";",
+    "color": "light_gray",
+    "qualities": [ [ "LOCKPICK", 40 ] ],
+    "flags": [ "PERFECT_LOCKPICK" ],
+    "use_action": [ "PICK_LOCK" ]
+  }
+]
