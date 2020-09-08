@@ -27,7 +27,7 @@
     "type": "skill",
     "ident": "chemistry",
     "name": { "str": "alchemy" },
-    "description": "Your skill in creating certain mixtures, solutions and compounds from various alchemical ingredients.",
+    "description": "Your skill in creating certain mixtures, solutions and potions from various alchemical ingredients.",
     "companion_industry_rank_factor": 1,
     "display_category": "display_crafting",
     "companion_skill_practice": [ { "skill": "menial", "weight": 15 } ]
