@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ABCs",
+    "type": "BOOK",
+    "name": { "str": "ABCs for Barbarians" },
+    "description": "A book with illustrations for each letter of the alphabet.",
+    "weight": "400 g",
+    "volume": "750 ml",
+    "price": 1290,
+    "material": [ "paper" ],
+    "symbol": "?",
+    "color": "light_blue",
+    "time": "10 m",
+    "fun": 2
+  }
+]
