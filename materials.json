@@ -1,0 +1,45 @@
+[
+  {
+    "type": "material",
+    "ident": "bonemold",
+    "name": "Bonemold",
+    "density": 7,
+    "specific_heat_liquid": 1.2,
+    "specific_heat_solid": 1.2,
+    "latent_heat": 200,
+    "bash_resist": 2,
+    "cut_resist": 3,
+    "bullet_resist": 1,
+    "acid_resist": 7,
+    "fire_resist": 1,
+    "elec_resist": 2,
+    "chip_resist": 8,
+    "dmg_adj": [ "scratched", "cut", "cracked", "shattered" ],
+    "bash_dmg_verb": "cracked",
+    "cut_dmg_verb": "chipped",
+    "burn_data": [
+      { "fuel": 0, "smoke": 0, "burn": 0 },
+      { "fuel": 0, "smoke": 1, "burn": 1, "volume_per_turn": "250 ml" },
+      { "fuel": 1, "smoke": 1, "burn": 2 }
+    ]
+  },
+  {
+    "type": "material",
+    "ident": "daedric",
+    "name": "Daedric",
+    "density": 26,
+    "specific_heat_liquid": 0.82,
+    "specific_heat_solid": 0.45,
+    "latent_heat": 273,
+    "bash_resist": 6,
+    "cut_resist": 6,
+    "bullet_resist": 5,
+    "acid_resist": 5,
+    "fire_resist": 3,
+    "elec_resist": 0,
+    "chip_resist": 20,
+    "dmg_adj": [ "marked", "dented", "smashed", "shattered" ],
+    "bash_dmg_verb": "dented",
+    "cut_dmg_verb": "scratched"
+  }
+]
