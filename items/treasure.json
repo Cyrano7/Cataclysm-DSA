@@ -1,0 +1,15 @@
+[
+  {
+    "id": "coin_dwemer",
+    "type": "GENERIC",
+    "category": "other",
+    "name": { "str": "Dwemer coin" },
+    "description": "The currency of the long-vanished Dwemer race.",
+    "weight": 5,
+    "volume": 0,
+    "price": 50,
+    "material": [ "silver" ],
+    "symbol": ".",
+    "color": "light_gray"
+  }
+]
