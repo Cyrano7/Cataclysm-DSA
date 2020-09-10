@@ -6,7 +6,7 @@
     "name": { "str": "Dwemer coin" },
     "description": "The currency of the long-vanished Dwemer race.",
     "weight": 5,
-    "volume": "10 ml",
+    "volume": "2 ml",
     "price": 50,
     "material": [ "silver" ],
     "symbol": ".",
