@@ -1,0 +1,13 @@
+[
+  {
+    "type": "scenario",
+    "id": "wilderness_dsa",
+    "name": "Wilderness",
+    "points": 0,
+    "description": "You find yourself amongst trees.  The screaming and the moaning is fainter this far from civilization, but you'd better know what you're doing out here.",
+    "start_name": "Wilderness",
+    "allowed_locs": [ "sloc_field", "sloc_forest", "sloc_campsite", "sloc_campground", "sloc_desert_island" ],
+    "professions": [ "adventurer" ],
+    "flags": [ "LONE_START" ]
+  }
+]
