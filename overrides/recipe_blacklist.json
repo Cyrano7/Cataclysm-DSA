@@ -178,5 +178,90 @@
     "type": "recipe",
     "result": "nachosvc",
     "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "brew_mycus_wine",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "protein_powder",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "neoprene",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "sheet_neoprene_patchwork",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "landmine",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "toasterpastry",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "sandwich_fairy",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "space_cake",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "brownie_weed",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "lasagne",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "lasagne_raw",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "chem_match_head_powder",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "joint",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "dab_pen",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "leverpostej",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "tÖttchen",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "tinfoil_hat",
+    "obsolete": true
   }
 ]

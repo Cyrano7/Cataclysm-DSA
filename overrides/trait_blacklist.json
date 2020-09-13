@@ -3,7 +3,8 @@
     "type": "TRAIT_BLACKLIST",
     "traits": [
       "ROBUST",
-      "CHAOTIC_BAD"
+      "CHAOTIC_BAD",
+      "PROF_SKATER"
     ]
   }
 ]
