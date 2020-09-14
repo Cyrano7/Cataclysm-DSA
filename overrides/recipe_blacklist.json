@@ -121,6 +121,12 @@
   },
   {
     "type": "recipe",
+    "result": "haggis",
+    "id_suffix": "large",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
     "result": "smores",
     "obsolete": true
   },
@@ -187,6 +193,12 @@
   {
     "type": "recipe",
     "result": "protein_powder",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "protein_powder",
+    "id_suffix": "with_from_food_processor",
     "obsolete": true
   },
   {
@@ -262,6 +274,47 @@
   {
     "type": "recipe",
     "result": "tinfoil_hat",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "wetsuit_hood",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "blindfold",
+    "id_suffix": "from_tape",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "seasoning_italian",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "bowl_plastic",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "mold_plastic",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "bottle_plastic",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "bottle_plastic_small",
+    "obsolete": true
+  },
+  {
+    "type": "recipe",
+    "result": "bottle_twoliter",
     "obsolete": true
   }
 ]

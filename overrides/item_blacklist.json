@@ -1,0 +1,15 @@
+[
+  {
+    "type": "ITEM_BLACKLIST",
+    "whitelist": false,
+    "items": [
+      "newest_newspaper",
+      "weeks_old_newspaper",
+      "months_old_newspaper",
+      "one_year_old_newspaper",
+      "years_old_newspaper",
+      "many_years_old_newspaper",
+      "fp_loyalty_card"
+    ]
+  }
+]
