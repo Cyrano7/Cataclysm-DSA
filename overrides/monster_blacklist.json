@@ -1,0 +1,33 @@
+[
+  {
+    "type": "MONSTER_BLACKLIST",
+    "monsters": [
+      "mon_albino_penguin",
+      "mon_amigara_horror",
+      "mon_blank",
+      "mon_blood_sacrifice",
+      "mon_breather",
+      "mon_breather_hub",
+      "mon_darkman",
+      "mon_dementia",
+      "mon_dog_thing",
+      "mon_flaming_eye",
+      "mon_flying_polyp",
+      "mon_gozu",
+      "mon_gracke",
+      "mon_headless_dog_thing",
+      "mon_hound_tindalos",
+      "mon_hound_tindalos_afterimage",
+      "mon_human_snail",
+      "mon_hunting_horror",
+      "mon_kreck",
+      "mon_shadow",
+      "mon_shadow_snake",
+      "mon_shoggoth",
+      "mon_thing",
+      "mon_twisted_body",
+      "mon_yugg",
+      "mon_vortex"
+    ] 
+  }
+]
