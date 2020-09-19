@@ -1,0 +1,46 @@
+[
+  {
+    "id": "earthenware_firing",
+    "type": "requirement",
+    "//": "Firing various clay shapes to make earthenware",
+    "tools": [ [ [ "fire", -1 ], [ "brick_kiln", 1 ] ] ]
+  },
+  {
+    "id": "forging_standard",
+    "type": "requirement",
+    "//": "Forging of steel items (per steel chunk), charcoal forge is already a substitute for forge",
+    "tools": [ [ [ "forge", 20 ] ] ]
+  },
+  {
+    "id": "blacksmithing_standard",
+    "type": "requirement",
+    "//": "Includes forging resources as well as tools needed for most blacksmithing",
+    "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 } ],
+    "tools": [ [ [ "forge", 20 ] ], [ [ "tongs", -1 ] ] ]
+  },
+  {
+    "id": "mining_standard",
+    "type": "requirement",
+    "//": "mining",
+    "tools": [ [ [ "pickaxe", -1 ] ] ]
+  },
+  {
+    "id": "surface_heat",
+    "type": "requirement",
+    "//": "Heat usable for heating a surface - for example a pot or frying pan.",
+    "tools": [ [ [ "hotplate", 1 ], [ "multi_cooker", 1 ], [ "char_smoker", 1 ], [ "fire", -1 ] ] ]
+  },
+  {
+    "id": "water_boiling_heat",
+    "type": "requirement",
+    "//": "Tools usable for providing heat usable for boiling water, but not necessarily for anything else.",
+    "tools": [
+      [
+        [ "hotplate", 1 ],
+        [ "multi_cooker", 1 ],
+        [ "char_smoker", 1 ],
+        [ "fire", -1 ]
+      ]
+    ]
+  }
+]
