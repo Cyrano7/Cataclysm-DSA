@@ -42,5 +42,19 @@
         [ "fire", -1 ]
       ]
     ]
+  },
+  {
+    "id": "hard_liquor",
+    "type": "requirement",
+    "//": "Hard liquor - necessarily comestible and high proof, not necessarily high quality.",
+    "components": [
+      [
+        [ "cyro_brandy", 1 ],
+        [ "flin", 1 ],
+        [ "greef", 1 ],
+        [ "sujamma", 1 ],
+        [ "mixed_alcohol_strong", 1 ]
+      ]
+    ]
   }
 ]
